@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  const STORAGE_KEY = "todo-app-tasks";
+  const STORAGE_KEY = "todo-app-tasks_v1";
   const addForm = document.getElementById("add-form");
   const taskInput = document.getElementById("task-input");
   const taskList = document.getElementById("task-list");
